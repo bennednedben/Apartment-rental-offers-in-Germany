@@ -129,7 +129,7 @@ The following page was used to scrape the required data from the web:
 
 [Postal codes](https://www.dastelefonbuch.de/Postleitzahlen/Berlin)
 
-# 07 Model
+# 07 Model.ipynb
 
 In this notebook, models were used to predict either price per square meter [Euro/m2] or the price class [price_class].
 The following models were applied:
