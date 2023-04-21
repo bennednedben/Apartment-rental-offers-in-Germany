@@ -187,7 +187,7 @@ Many assumptions could be confirmed.
 The location of the property has the greatest influence. 
 In addition, the following circumstances also have a influence on the base rent:
 - service Charge
-- newlyConst
+- newly constructed
 - balcony
 - cellar
 - picture count
