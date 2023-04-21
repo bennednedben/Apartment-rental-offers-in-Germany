@@ -65,7 +65,7 @@ Various data sets are available for download on the kaggle.com website.
 
 The following website could be used to download the used dataset:
 
-	* [Apartment rental offers in Germany](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany)
+[Apartment rental offers in Germany](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany)
 
 On the website it says:
 
